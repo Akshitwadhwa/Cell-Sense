@@ -1,0 +1,5 @@
+{
+  "name": "Jupyter AI Tutor",
+  "description": "An interactive AI-powered learning environment that parses Jupyter Notebooks and provides expert-level code explanations using a senior data science mentor persona.",
+  "requestFramePermissions": []
+}
